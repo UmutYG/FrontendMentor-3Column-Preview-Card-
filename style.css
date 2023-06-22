@@ -88,7 +88,8 @@ a {
 
 .btn {
     padding: 1.2rem 3.2rem;
-    border-radius: 999px;
+    border-radius: 25px;
+    line-height: 2.5rem;
 }
 
 .btn--learn-more {
