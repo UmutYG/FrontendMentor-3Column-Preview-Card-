@@ -8,8 +8,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/bmi-calculator-page-using-css-grid-UsL4ZqSbJT)
-- Live Site URL: [Add live site URL here](https://umutyg.github.io/Frontendmentor-BMI-Calculator/)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-component-with-css-grid-kiCurrkUAR](https://www.frontendmentor.io/solutions/3column-component-with-css-grid-kiCurrkUAR)
+- Live Site URL: [https://umutyg.github.io/FrontendMentor-3Column-Preview-Card-/](https://umutyg.github.io/FrontendMentor-3Column-Preview-Card-/)
 
 ## Author
 
